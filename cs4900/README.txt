@@ -1,5 +1,3 @@
-Name: Dennis Bandavong
-CSCI 4900 Project
 
 This program uses polyalphabetic cipher and rail fence cipher to encrypt or decrypt a plaintext file.
 
